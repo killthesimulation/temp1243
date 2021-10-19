@@ -45,3 +45,7 @@
 .footerSocialItemTwitter{
     background-image: url(./images/twitter.png);
 }
+
+.section-10-line-2-right-item-2, .section-10-line-2-right-item{
+    vertical-align: top;
+}

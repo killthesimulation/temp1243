@@ -69,7 +69,7 @@ export default function Home() {
                         <div className="mobile-menu-social-line">
                         <a href="https://twitter.com/sublimefinance" className="section-10-line-1-right-item section-10-line-1-right-item-1 button" />
                    
-                        <a href="https://discord.gg/xqYetdrZ" className="section-10-line-1-right-item section-10-line-1-right-item-3 button" />
+                        <a href="https://discord.gg/cnadj5hFwh" className="section-10-line-1-right-item section-10-line-1-right-item-3 button" />
                     
                         
                        
@@ -93,16 +93,17 @@ export default function Home() {
                     <div className="menu-div">
                     <div className="section-10-line-2-right section-10-line-2-right-2">
               
-                        <a target="_blank" href="https://github.com/sublime-finance/sublime-v1" className="section-10-line-2-right-item"> <i class="fab fa-github"></i> Github</a>
+                        <a target="_blank" href="https://github.com/sublime-finance/sublime-v1" className="section-10-line-2-right-item"><i class="fab fa-github"></i></a>
                          
-                        <a  target="_blank" href="https://docs.sublime.finance/" className="section-10-line-2-right-item"><i class="fas fa-file-alt"></i> Docs</a>
+                        <a  target="_blank" href="https://docs.sublime.finance/" className="section-10-line-2-right-item"><i class="fas fa-file-alt"></i></a>
     
                     </div>
 
                     <div className="section-10-line-1-right section-10-line-1-right-2">
+           
                         <a href="https://twitter.com/sublimefinance" className="section-10-line-1-right-item section-10-line-1-right-item-1 button" />
                        
-                        <a href="https://discord.gg/xqYetdrZ" className="section-10-line-1-right-item section-10-line-1-right-item-3 button" />
+                        <a href="https://discord.gg/cnadj5hFwh" className="section-10-line-1-right-item section-10-line-1-right-item-3 button" />
                      
                         
                        
