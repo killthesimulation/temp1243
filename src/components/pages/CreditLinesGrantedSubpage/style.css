@@ -1,0 +1,83 @@
+.creditLinesTable{
+    margin-top: 24px;
+    width: 100%;
+}
+
+.creditLinesTableTop{
+
+    width: 100%;
+    padding: 15px 0; 
+    background: linear-gradient(0deg, #F9FAFC, #F9FAFC), #FFFFFF;
+    border: 2px solid #F3F5F9;
+    box-sizing: border-box;
+    border-radius: 4px 4px 0px 0px;
+
+}
+
+
+.creditLinesTableTopItem{
+    vertical-align: middle;
+    font-weight: 500;
+    font-size: 14px;
+    color: #212B4C;
+}
+
+.creditLinesTableTopItem7x{
+    width: 14.28%;
+}
+
+.CreditLinesGrantedSubpageTopLine{
+    width: 100%;
+    margin-bottom: 18px;
+    margin-top: 20px;
+}
+
+.CreditLinesGrantedSubpageTopLineLeft{
+    width: 300px;
+    float: left;
+}
+
+.CreditLinesGrantedSubpageTopLineRight{
+    width: calc(100% - 300px);
+    max-width: 820px;
+    float: right;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 18px;
+    border-bottom: 1px solid #ECF0F4;
+}
+
+
+.CreditLinesGrantedSubpageTopLineLeftIcon{
+    float: left;
+    width: 72px;
+    height: 72px;
+    background-image: url(./images/userIcon.png);
+}
+
+.CreditLinesGrantedSubpageTopLineLeftAddress{
+    padding-left: 13px;
+    float: left;
+    height: 72px;
+    line-height: 72px;
+    font-weight: 600;
+    font-size: 19px;
+    color: #303755;
+}
+
+.CreditLinesGrantedSubpageButtonsLine{
+    width: 100%;
+    text-align: right
+}
+
+.CreditLinesGrantedSubpageButton{
+    font-weight: 600;
+    font-size: 16px;
+    color: #303755;
+    padding: 11px 16px;
+    border: 2px solid #ECF0F4;
+box-sizing: border-box;
+border-radius: 4px;
+margin-left: 15px;
+}
