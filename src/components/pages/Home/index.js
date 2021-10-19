@@ -60,17 +60,17 @@ export default function Home() {
                         
                         </div>
 
-                            <a href="https://github.com/sublime-finance/sublime-v1" className="mobile-menu-item button">Github</a>
+                            <a href="https://github.com/sublime-finance/sublime-v1" className="mobile-menu-item button"><i class="fab fa-github"></i> Github</a>
                          
-                            <a href="https://docs.sublime.finance/" className="mobile-menu-item button">Docs</a>
+                            <a href="https://docs.sublime.finance/" className="mobile-menu-item button"><i class="fas fa-file-alt"></i> Docs</a>
                             
 
 
                         <div className="mobile-menu-social-line">
                         <a href="https://twitter.com/sublimefinance" className="section-10-line-1-right-item section-10-line-1-right-item-1 button" />
-                        <a href="https://medium.com/@sublime.finance" className="section-10-line-1-right-item section-10-line-1-right-item-2 button" />
+                   
                         <a href="https://discord.gg/xqYetdrZ" className="section-10-line-1-right-item section-10-line-1-right-item-3 button" />
-                        <a href="https://t.me/joinchat/_NHGrR5tMItiNjc5" className="section-10-line-1-right-item section-10-line-1-right-item-4 button" />
+                    
                         
                        
                         </div>
@@ -93,9 +93,9 @@ export default function Home() {
                     <div className="menu-div">
                     <div className="section-10-line-2-right section-10-line-2-right-2">
               
-                        <a target="_blank" href="https://github.com/sublime-finance/sublime-v1" className="section-10-line-2-right-item">Github</a>
+                        <a target="_blank" href="https://github.com/sublime-finance/sublime-v1" className="section-10-line-2-right-item"> <i class="fab fa-github"></i> Github</a>
                          
-                        <a  target="_blank" href="https://docs.sublime.finance/" className="section-10-line-2-right-item">Docs</a>
+                        <a  target="_blank" href="https://docs.sublime.finance/" className="section-10-line-2-right-item"><i class="fas fa-file-alt"></i> Docs</a>
     
                     </div>
 
@@ -165,120 +165,7 @@ export default function Home() {
 
   
          
-       
-            <div className="section-6">
-                <div className="master-wrapper master-wrapper-6">
-                    <div className="section-6-title">
-                    Backed by the best
-                    </div>
-
-                    <a target="_blank" href="https://www.electriccapital.com/" className="section-6-item section-6-item-1">
-
-                      
-                    </a>
-                    
-                    <a target="_blank" href="https://www.galaxydigital.io/" className="section-6-item section-6-item-2">
-                  
-                    </a>
-                    <a target="_blank" href="https://www.collabcurrency.com/" className="section-6-item section-6-item-3">
-                   
-                    </a>
-                    <a target="_blank" href="https://fintech.io/" className="section-6-item section-6-item-4">
-                   
-                    </a>
-
-
-<div className="backSpacer" />
-
-
-
-
-                    <a target="_blank" href="https://twitter.com/jillrgunter" className="section-6-item section-6-item-5">
-                    <div className="backName">
-                    Jill Gunter
-                        </div>
-                        <div className="backName2">
-                      Slow Ventures
-                        </div>
-                    </a>
-                    <a target="_blank" href="https://twitter.com/twobitidiot" className="section-6-item section-6-item-6">
-                    <div className="backName">
-                    Ryan Selkis
-                        </div>
-
-                        <div className="backName2">
-                    Messari
-                        </div>
-                    </a>
-
-                    <a target="_blank" href="https://twitter.com/sandeepnailwal" className="section-6-item section-6-item-7">
-                    <div className="backName">
-                    Sandeep Nailwal
-                        </div>
-                        <div className="backName2">
-                Polygon
-                        </div>
-                    </a>
-
-                    <a target="_blank" href="https://twitter.com/ericinjective" className="section-6-item section-6-item-8">
-                        <div className="backName">
-                        Eric Chen
-                        </div>
-                        <div className="backName2">
-                        Injective Protocol
-                        </div>
-                        
-                    </a>
-
-
-
-                    {/* HEREEEEEEEEEEEEEEEEEEEEEE */}
-
-                    <a target="_blank" href="https://twitter.com/tempofeng" className="section-6-item section-6-item-9">
-                        <div className="backName">
-                        Yenwen Feng
-                        </div>
-                      
-                        
-                    </a>
-
-
-                    <a target="_blank" href="https://twitter.com/iamdonho?lang=en" className="section-6-item section-6-item-10">
-                        <div className="backName">
-                        Don Ho
-                        </div>
-                     
-                        
-                    </a>
-
-
-                    <a target="_blank" href="" className="section-6-item section-6-item-11">
-                        <div className="backName">
-                        Michael Chen
-                        </div>
-                        <div className="backName2">
-                        Injective Protocol
-                        </div>
-                        
-                    </a>
-
-
-
-                    <a target="_blank" href="https://twitter.com/ericinjective" className="section-6-item section-6-item-12">
-                        <div className="backName">
-                        Fredrik Haga
-                        </div>
-                      
-                        
-                    </a>
-
-
-
-                </div>
-            </div>
-
-
-    
+   
   
     
       
@@ -904,7 +791,120 @@ export default function Home() {
                 </div>
             </div>
        
+    
+            <div className="section-6">
+                <div className="master-wrapper master-wrapper-6">
+                    <div className="section-6-title">
+                    Backed by the best
+                    </div>
 
+                    <a target="_blank" href="https://www.electriccapital.com/" className="section-6-item section-6-item-1">
+
+                      
+                    </a>
+                    
+                    <a target="_blank" href="https://www.galaxydigital.io/" className="section-6-item section-6-item-2">
+                  
+                    </a>
+                    <a target="_blank" href="https://www.collabcurrency.com/" className="section-6-item section-6-item-3">
+                   
+                    </a>
+                    <a target="_blank" href="https://fintech.io/" className="section-6-item section-6-item-4">
+                   
+                    </a>
+
+
+<div className="backSpacer" />
+
+
+
+
+                    <a target="_blank" href="https://twitter.com/jillrgunter" className="section-6-item section-6-item-5">
+                    <div className="backName">
+                    Jill Gunter
+                        </div>
+                        <div className="backName2">
+                      Slow Ventures
+                        </div>
+                    </a>
+                    <a target="_blank" href="https://twitter.com/twobitidiot" className="section-6-item section-6-item-6">
+                    <div className="backName">
+                    Ryan Selkis
+                        </div>
+
+                        <div className="backName2">
+                    Messari
+                        </div>
+                    </a>
+
+                    <a target="_blank" href="https://twitter.com/sandeepnailwal" className="section-6-item section-6-item-7">
+                    <div className="backName">
+                    Sandeep Nailwal
+                        </div>
+                        <div className="backName2">
+                Polygon
+                        </div>
+                    </a>
+
+                    <a target="_blank" href="https://twitter.com/ericinjective" className="section-6-item section-6-item-8">
+                        <div className="backName">
+                        Eric Chen
+                        </div>
+                        <div className="backName2">
+                        Injective Protocol
+                        </div>
+                        
+                    </a>
+
+
+
+                    {/* HEREEEEEEEEEEEEEEEEEEEEEE */}
+
+                    <a target="_blank" href="https://twitter.com/tempofeng" className="section-6-item section-6-item-9">
+                        <div className="backName">
+                        Yenwen Feng
+                        </div>
+                      
+                        
+                    </a>
+
+
+                    <a target="_blank" href="https://twitter.com/iamdonho?lang=en" className="section-6-item section-6-item-10">
+                        <div className="backName">
+                        Don Ho
+                        </div>
+                     
+                        
+                    </a>
+
+
+                    <a target="_blank" href="" className="section-6-item section-6-item-11">
+                        <div className="backName">
+                        Michael Chen
+                        </div>
+                        <div className="backName2">
+                        Injective Protocol
+                        </div>
+                        
+                    </a>
+
+
+
+                    <a target="_blank" href="https://twitter.com/ericinjective" className="section-6-item section-6-item-12">
+                        <div className="backName">
+                        Fredrik Haga
+                        </div>
+                      
+                        
+                    </a>
+
+
+
+                </div>
+            </div>
+
+
+    
 
 
 {/* 

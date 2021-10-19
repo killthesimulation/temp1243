@@ -1548,6 +1548,10 @@ font-size: 14px;
 color: #A5ADC6;
 }
 
+.section-10-line-2-right-item i{
+    margin-right: 5px;
+}
+
 .section-2-wrapper{
     position: relative;
 }
@@ -1680,7 +1684,7 @@ color: #4E3300;
 .section-6{
     padding: 73px 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.02);
+    background-color: rgba(0, 0, 0, 0);
 }
 
 .master-wrapper-6{
@@ -1710,7 +1714,7 @@ color: #212B4C;
     margin-right: 90px;
     height: 140px;
     margin-bottom: 30px;
-    background-size: 100% auto;
+    background-size: 80% auto;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1739,10 +1743,12 @@ color: #212B4C;
 
 
 .section-6-item-1{
+    background-size: 100% auto;
     background-image: url(./images/s1.png);
 }
 
 .section-6-item-2{
+    background-size: 100% auto;
     background-image: url(./images/s2.png);
 }
 
@@ -1755,6 +1761,7 @@ color: #212B4C;
 
 
 .section-6-item-4{
+    background-size: 100% auto;
     filter: saturate(0);
     background-image: url(./images/back4.png);
 }
@@ -1779,7 +1786,7 @@ color: #212B4C;
 .section-6-item-8{
     filter: saturate(0);
     background-image: url(./images/Injective-Protocol-500.png);
-    background-size: 85% auto;
+    background-size: 68% auto;
 }
 
 
@@ -1796,7 +1803,7 @@ color: #212B4C;
 
 .section-6-item-11{
     filter: saturate(0);
-    background-size: 85% auto;
+    background-size: 70% auto;
     background-image: url(./images/fantom-logo-blue.png);
 }
 
@@ -1804,7 +1811,7 @@ color: #212B4C;
     filter: saturate(0);
 
     background-image: url(./images/dune.png);
-    background-size: 75% auto;
+    background-size: 65% auto;
 }
 
 
