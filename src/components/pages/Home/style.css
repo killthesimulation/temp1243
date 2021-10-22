@@ -1490,8 +1490,8 @@ color: #212B4C;
 .section-10-line-1-right-item{
     display: inline-block;
     margin-left: 16px;
-    width: 24px;
-    height: 24px;
+    width: 25px;
+    height: 25px;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -1541,7 +1541,7 @@ color: #A5ADC6;
 .section-10-line-2-right-item{
     margin-left: 16px;
     font-weight: 500;
-font-size: 17px;
+font-size: 18px;
 /* identical to box height */
 
 
@@ -1664,7 +1664,7 @@ color: #4E3300;
 }
 
 .section-10-line-1-right-2{
-    width: 80px;
+    width: 82px;
 }
 
 .menu-div{

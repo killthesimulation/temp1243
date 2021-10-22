@@ -96,19 +96,18 @@ export default function Home() {
                         <a target="_blank" href="https://github.com/sublime-finance/sublime-v1" className="section-10-line-2-right-item"><i class="fab fa-github"></i></a>
                          
                         <a  target="_blank" href="https://docs.sublime.finance/" className="section-10-line-2-right-item"><i class="fas fa-file-alt"></i></a>
+
+                        <a  target="_blank" href="https://twitter.com/sublimefinance" className="section-10-line-2-right-item"><i class="fab fa-twitter"></i></a>
+
+                        <a  target="_blank" href="https://discord.gg/cnadj5hFwh" className="section-10-line-2-right-item"><i class="fab fa-discord"></i></a>
+                        <a  target="_blank" href="https://medium.com/sublime-finance" className="section-10-line-2-right-item"><i class="fab fa-medium-m"></i></a>
     
+
+
+                        
                     </div>
 
-                    <div className="section-10-line-1-right section-10-line-1-right-2">
-           
-                        <a href="https://twitter.com/sublimefinance" className="section-10-line-1-right-item section-10-line-1-right-item-1 button" />
-                       
-                        <a href="https://discord.gg/cnadj5hFwh" className="section-10-line-1-right-item section-10-line-1-right-item-3 button" />
-                     
-                        
-                       
-                    
-                    </div>
+             
 
                     </div>
 
